@@ -19,7 +19,10 @@ body
   background-color: #c292d8 !important;
 }
 
-body
+.colored-text 
+{
+	color: #c292d8 
+}
 
 .smaller-logo {
     transform: scale(0.8); 
